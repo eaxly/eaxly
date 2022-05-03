@@ -4,6 +4,6 @@
 I am currently learning to code in rust.
 
 ### Where to find me:
-mastodon: <a rel="me" href="https://mastodon.online/@eax">@eax@mastodon.online</a>\n
-codeberg: <a href="https://codeberg.org/eax">eax</a>\n
-matrix:   @eaxly:matrix.org\n
+mastodon: <a rel="me" href="https://mastodon.online/@eax">@eax@mastodon.online</a>  
+codeberg: <a href="https://codeberg.org/eax">eax</a>  
+matrix:   @eaxly:matrix.org  
