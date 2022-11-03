@@ -1,7 +1,7 @@
 # eaxly
 > Hey, I'm eaxly. I like code.
 
-I am currently learning to code in rust.
+I am currently learning to code.
 
 ### Where to find me:
 fediverse: <a rel="me" href="https://mk.absturztau.be/@eax">@eax@mk.absturztau.be</a>  
